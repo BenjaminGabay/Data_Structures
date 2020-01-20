@@ -1,0 +1,30 @@
+AFRICA
+ Population: 991294077
+ Country with highest litteracy rate: Equatorial-Guinea with a population of 797082 and a literacy rate of 94.7736
+ country with highest GDP spendature on education: Lesotho with a population of 2083061 and a literacy rate of 75.8002
+ country with highest population: Nigeria with a population of 172816517 and a literacy rate of 51.0777
+ASIA
+ Population: 4251751678
+ Country with highest litteracy rate: Korea,Dem.Rep. with a population of 24895705 and a literacy rate of 99.9983
+ country with highest GDP spendature on education: Vietnam with a population of 89708900 and a literacy rate of 93.5205
+ country with highest population: China with a population of 1357380000 and a literacy rate of 95.1245
+EUROPE
+ Population: 606808373
+ Country with highest litteracy rate: Latvia with a population of 2012647 and a literacy rate of 99.8959
+ country with highest GDP spendature on education: Denmark with a population of 5614932 and a literacy rate of -1
+ country with highest population: Germany with a population of 80645605 and a literacy rate of -1
+NORTH-AMERICA
+ Population: 556893767
+ Country with highest litteracy rate: Cuba with a population of 11362505 and a literacy rate of 99.7525
+ country with highest GDP spendature on education: Cuba with a population of 11362505 and a literacy rate of 99.7525
+ country with highest population: United-States with a population of 316497531 and a literacy rate of -1
+OCEANIA
+ Population: 37058823
+ Country with highest litteracy rate: Palau with a population of 20919 and a literacy rate of 99.524
+ country with highest GDP spendature on education: Solomon-Islands with a population of 560685 and a literacy rate of 76.6
+ country with highest population: Australia with a population of 23125868 and a literacy rate of -1
+SOUTH-AMERICA
+ Population: 409786747
+ Country with highest litteracy rate: Uruguay with a population of 3407969 and a literacy rate of 98.3639
+ country with highest GDP spendature on education: Venezuela with a population of 30276045 and a literacy rate of 94.7702
+ country with highest population: Brazil with a population of 204259377 and a literacy rate of 91.4842
